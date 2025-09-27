@@ -1,6 +1,6 @@
 # Winform Modernizer
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/conrad2021-commits/generated-app-20250927-012339)
 
 A modern, visually stunning website for a WinForms development and modernization service, featuring hero slides, feature showcases, and pricing.
 
@@ -79,4 +79,4 @@ bun run deploy
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/conrad2021-commits/generated-app-20250927-012339)
